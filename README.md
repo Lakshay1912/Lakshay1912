@@ -2,12 +2,12 @@
 
 - 🔭 I’m currently working on Hackerrank Problems
 - 🌱 I’m currently learning  Big Data tools
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with Internship 
 - 📫 How to reach me: 
-- Twitter : lakshay_vasuja 
-- LinkedIn : https://www.linkedin.com/in/lakshay-vasuja-556a51125/ 
-- Gmail : lakshayvasuja@gmail.com
+- > Twitter : @lakshay_vasuja
+- > LinkedIn : https://www.linkedin.com/in/lakshay-vasuja-556a51125/ 
+- > Gmail : lakshayvasuja@gmail.com
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
 -->
