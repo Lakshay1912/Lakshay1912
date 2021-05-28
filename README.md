@@ -8,8 +8,6 @@
 - Twitter : lakshay_vasuja
 - LinkedIn : https://www.linkedin.com/in/lakshay-vasuja-556a51125/ 
 - Gmail : lakshayvasuja@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
 -->
 ------------------------------
 
