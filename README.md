@@ -1,8 +1,8 @@
 ### Hi there , I am Lakshay Vasuja 👋
 
-- 🔭 I’m currently working on Hackerrank Problems
+- 🔭 I’m currently working on Coding Problems
 - 🌱 I’m currently learning  Big Data tools
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on New Startup 
 - 🤔 I’m looking for help with Internship 
 - 📫 How to reach me: 
 - Twitter : lakshay_vasuja
